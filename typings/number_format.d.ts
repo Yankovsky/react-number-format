@@ -5,7 +5,7 @@ declare const {defaultValue, value, ...inputAttributes}: React.InputHTMLAttribut
 type InputAttributes = typeof inputAttributes;
 
 
-declare module "react-number-format" {
+declare module "@yankovsky/react-number-format" {
 
   export interface NumberFormatState {
     value?: string;
