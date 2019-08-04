@@ -1,5 +1,5 @@
 {
-  "name": "react-number-format",
+  "name": "@yankovsky/react-number-format",
   "description": "React component to format number in an input or as a text.",
   "version": "4.0.8",
   "main": "lib/number_format.js",
